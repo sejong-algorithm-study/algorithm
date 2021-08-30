@@ -13,7 +13,7 @@ https://programmers.co.kr/learn/challenges?tab=algorithm_practice_kit
 |------|---|---|---|---|
 |2021.08.29|@devohda|`프로그래머스` 다리를 지나는 트럭(42583)|`queue`|`python`|
 |||||
-|2021.08.30||||
+|2021.08.30|@devohda|`프로그래머스` 주식가격(42584)|`stack`|`python`|
 |2021.08.31||||
 
 
