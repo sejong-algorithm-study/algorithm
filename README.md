@@ -18,6 +18,6 @@ https://programmers.co.kr/learn/challenges?tab=algorithm_practice_kit
 |2021.08.31|@devohda|`프로그래머스` K번째수(42748)|`정렬`|`python`,`javascript`|
 |2021.08.31||||
 |2021.08.31|@3juhwan|`프로그래머스` K번째수(42748)|`sort`|`python`|
-
+|2021.08.31|@hena|`프로그래머스` 주식가격(42584)|`queue`|`python`|
 
 ### 9월 1주차
