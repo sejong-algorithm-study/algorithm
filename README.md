@@ -15,8 +15,12 @@ https://programmers.co.kr/learn/challenges?tab=algorithm_practice_kit
 |||||
 |2021.08.30|@devohda|`프로그래머스` 주식가격(42584)|`stack`|`python`|
 |2021.08.30|@hena|`프로그래머스` 다리를 지나는 트럭(42583)|`queue`|`python`|
+|||||
 |2021.08.31|@devohda|`프로그래머스` K번째수(42748)|`정렬`|`python`,`javascript`|
 |2021.08.31|@hena|`프로그래머스` 주식가격(42584)|`queue`|`python`|
 |2021.08.31|@3juhwan|`프로그래머스` K번째수(42748)|`sort`|`python`|
+|||||
+|2021.09.01|@3juhwan|`프로그래머스` 가장 큰 수(42746) H-Index(42747)|`sort`|`python`|
+
 
 ### 9월 1주차
