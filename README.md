@@ -30,3 +30,4 @@ https://programmers.co.kr/learn/challenges?tab=algorithm_practice_kit
 |2021.09.01|@hena|`프로그래머스` K번째수(42748)|`sort`|`python`|
 |2021.09.02|@3juhwan|`프로그래머스` 소수 찾기(42839)|`search`|`python`|
 |2021.09.02|@hena|`프로그래머스` 소수 찾기(42839)|`search`|`python`|
+|2021.09.02|@devohda|`프로그래머스` 소수 찾기(42839)|`search`|`python`|
