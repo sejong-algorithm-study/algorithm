@@ -24,7 +24,9 @@ https://programmers.co.kr/learn/challenges?tab=algorithm_practice_kit
 
 ### 9월 1주차
 |2021.09.01|@3juhwan|`프로그래머스` 가장 큰 수(42746) H-Index(42747)|`sort`|`python`|
-|2021.0901|@hena|`프로그래머스` K번째수(42748)|`sort`|`python`|
+|2021.09.01|@hena|`프로그래머스` K번째수(42748)|`sort`|`python`|
 |||||
 |2021.09.02|@3juhwan|`프로그래머스` 소수 찾기(42839)|`search`|`python`|
 |2021.09.02|@hena|`프로그래머스` 소수 찾기(42839)|`search`|`python`|
+|||||
+|2021.09.03|@hena|`프로그래머스` 카펫(42842)|`search`|`python`|
