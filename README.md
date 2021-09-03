@@ -32,10 +32,6 @@ https://programmers.co.kr/learn/challenges?tab=algorithm_practice_kit
 |||||
 |2021.09.02|@3juhwan|`프로그래머스` 소수 찾기(42839)|`search`|`python`|
 |2021.09.02|@hena|`프로그래머스` 소수 찾기(42839)|`search`|`python`|
+|2021.09.02|@devohda|`프로그래머스` 소수 찾기(42839)|`search`|`python`|
 |||||
 |2021.09.03|@hena|`프로그래머스` 카펫(42842)|`search`|`python`|
-=======
-|2021.09.02|@3juhwan|`프로그래머스` 소수 찾기(42839)|`search`|`python`|
-|2021.09.02|@hena|`프로그래머스` 소수 찾기(42839)|`search`|`python`|
-|2021.09.02|@devohda|`프로그래머스` 소수 찾기(42839)|`search`|`python`|
->>>>>>> 71e57d77bb30ce15c54a6de9b08c27bd692e5842
