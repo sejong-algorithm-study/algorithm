@@ -17,5 +17,8 @@
     - 본인 repo가 `compare`, upstream repo가 `base`로 위치하게 선택
     - `create pull request` 를 눌러주세요.
           ![img.png](img.png)
-2. pull request 메시지는 개인의 자유이나 웬만하면 commit message 와 동일하게 해주세요.
+2. pull request 메시지 제목을 `[YYYY.MM.DD] 문제 출처 사이트 문제 번호 <푼 언어>` 로 통일해주세요.
+   
+
+    [2021.01.01] PROGRAMMERS 12345 <python>
 3. 규칙이 맞다면 하루 이내에 pull request 가 수락됩니다. (규칙과 맞지 않으면 반려될 수 있습니다.)
