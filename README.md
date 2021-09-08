@@ -9,9 +9,9 @@
 ### 9월 2주차
 - 목표 :
 
-|날짜|문제|레벨|
-|---|---|---|
-|2021.09.09|`백준` <a link="https://www.acmicpc.net/problem/2573">빙산(2573)</a>|<img src="./src/images/gold5.png"></img>|||
+|날짜|문제|레벨|푼 사람|
+|---|---|---|------|
+|2021.09.09|![BOJ](https://img.shields.io/static/v1?label=baekjoon&message=2573&color=blue) [빙산 (2573)](https://www.acmicpc.net/problem/2573)|<img src="./src/images/gold4.png" style="width:20px;"></img> <span style="color:#FA9500">Gold 𝖨𝚅</span>|||
 
 |날짜|푼 사람|푼 문제|개념|언어|
 |------|---|---|---|---|
