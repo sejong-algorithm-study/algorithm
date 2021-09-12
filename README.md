@@ -13,12 +13,14 @@
 |---|---|---|------|
 |2021.09.09|![BOJ](https://img.shields.io/static/v1?label=baekjoon&message=2573&color=blue) [빙산](https://www.acmicpc.net/problem/2573)|<img src="./src/images/gold4.png" style="height:16px;"></img> <span style="color:#FA9500">Gold𝙸𝚅</span>|@3juhwan, @hena, @sally2596, @devohda|
 |2021.09.10|![BOJ](https://img.shields.io/static/v1?label=baekjoon&message=14503&color=blue) [로봇 청소기](https://www.acmicpc.net/problem/14503)|<img src="./src/images/gold5.png" style="height:16px;"></img> <span style="color:#FA9500">Gold𝚅</span>|@3juhwan, @hena, @sally2596|
+|2021.09.11|![BOJ](https://img.shields.io/static/v1?label=baekjoon&message=2631&color=blue) [줄세우기](https://www.acmicpc.net/problem/2631)|<img src="./src/images/gold5.png" style="height:16px;"></img> <span style="color:#FA9500">Gold𝚅</span>|@3juhwan, @hena, @sally2596, @devohda|
 
 |날짜|푼 사람|푼 문제|개념|언어|
 |------|---|---|---|---|
 |2021.09.05|@devohda|`프로그래머스` 단어 변환(43163)|`BFS`|`python`|
 |2021.09.05|@3juhwan|`프로그래머스` 네트워크(43162)|`DFS`|`python`|
 |2021.09.05|@hena|`프로그래머스` 네트워크(43162)|`DFS`|`python`|
+|2021.09.05|@sally2596|`프로그래머스` 네트워크(43162)|`DFS`|`python`|
 |2021.09.06|@devohda|`프로그래머스` 단어 변환(43163)|`BFS`|`javascript`|
 |2021.09.06|@hena|`프로그래머스` 단어 변환(43163)|`BFS`|`python`|
 |2021.09.06|@3juhwan|`프로그래머스` 단어 변환(43163)|`BFS`|`python`|
@@ -28,6 +30,9 @@
 |2021.09.07|@devohda|`프로그래머스` 여행경로(43164)|`DFS`|`python`|
 |2021.09.07|@sally2596|`프로그래머스` 여행경로(43164)|`DFS`|`python`|
 |2021.09.08|@devohda|`백준` 스타트링크(5014)|`BFS`|`python`|
+|2021.09.08|@3juhwan|`백준` 스타트링크(5014)|`BFS`|`python`|
+|2021.09.08|@hena|`백준` 스타트링크(5014)|`BFS`|`python`|
+|2021.09.08|@sally2596|`백준` 스타트링크(5014)|`BFS`|`python`|
 
 
 ### 9월 1주차
