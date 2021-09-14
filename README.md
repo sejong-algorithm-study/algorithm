@@ -7,10 +7,12 @@
 > <a href="./rules for commit & pull request.md">commit 메시지 규칙 및 PR 규칙</a> 에 따라 commit/PR 을 해주세요.
 
 ### 9월 3주차
+- 목표 : `DP`, `Greedy`
 
 |날짜|문제|레벨|푼 사람|
 |---|---|---|------|
 |2021.09.13|![BOJ](https://img.shields.io/static/v1?label=baekjoon&message=1563&color=blue) [개근상](https://www.acmicpc.net/problem/1563)|<img src="./src/images/gold4.png" style="height:16px;"></img> <span style="color:#FA9500">Gold𝚅</span>|@3juhwan, @hena, @sally2596|
+|2021.09.14|![BOJ](https://img.shields.io/static/v1?label=baekjoon&message=14728&color=blue) [벼락치기](https://www.acmicpc.net/problem/14728)|<img src="./src/images/gold5.png" style="height:16px;"></img> <span style="color:#FA9500">Gold𝚅</span>|@hena, @sally2596|
 
 ---
 
