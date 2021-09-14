@@ -6,6 +6,14 @@
 >
 > <a href="./rules for commit & pull request.md">commit 메시지 규칙 및 PR 규칙</a> 에 따라 commit/PR 을 해주세요.
 
+### 9월 3주차
+
+|날짜|문제|레벨|푼 사람|
+|---|---|---|------|
+|2021.09.13|![BOJ](https://img.shields.io/static/v1?label=baekjoon&message=1563&color=blue) [개근상](https://www.acmicpc.net/problem/1563)|<img src="./src/images/gold4.png" style="height:16px;"></img> <span style="color:#FA9500">Gold𝚅</span>|@3juhwan, @hena, @sally2596|
+
+---
+
 ### 9월 2주차
 - 목표 :
 
@@ -14,6 +22,9 @@
 |2021.09.09|![BOJ](https://img.shields.io/static/v1?label=baekjoon&message=2573&color=blue) [빙산](https://www.acmicpc.net/problem/2573)|<img src="./src/images/gold4.png" style="height:16px;"></img> <span style="color:#FA9500">Gold𝙸𝚅</span>|@3juhwan, @hena, @sally2596, @devohda|
 |2021.09.10|![BOJ](https://img.shields.io/static/v1?label=baekjoon&message=14503&color=blue) [로봇 청소기](https://www.acmicpc.net/problem/14503)|<img src="./src/images/gold5.png" style="height:16px;"></img> <span style="color:#FA9500">Gold𝚅</span>|@3juhwan, @hena, @sally2596|
 |2021.09.11|![BOJ](https://img.shields.io/static/v1?label=baekjoon&message=2631&color=blue) [줄세우기](https://www.acmicpc.net/problem/2631)|<img src="./src/images/gold5.png" style="height:16px;"></img> <span style="color:#FA9500">Gold𝚅</span>|@3juhwan, @hena, @sally2596, @devohda|
+|2021.09.12|![BOJ](https://img.shields.io/static/v1?label=baekjoon&message=2666&color=blue) [벽장문의 이동](https://www.acmicpc.net/problem/2666)|<img src="./src/images/gold5.png" style="height:16px;"></img> <span style="color:#FA9500">Gold𝚅</span>|@3juhwan, @hena, @sally2596, @devohda|
+
+---
 
 |날짜|푼 사람|푼 문제|개념|언어|
 |------|---|---|---|---|
@@ -34,6 +45,7 @@
 |2021.09.08|@hena|`백준` 스타트링크(5014)|`BFS`|`python`|
 |2021.09.08|@sally2596|`백준` 스타트링크(5014)|`BFS`|`python`|
 
+---
 
 ### 9월 1주차
 
