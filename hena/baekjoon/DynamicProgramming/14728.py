@@ -12,7 +12,7 @@ for j in range(1, T + 1):
         dp[1][j] = array[1][1]
     else:
         dp[1][j] = 0
-# print(dp)
+
 
 for i in range(2, N + 1):
     for j in range(1, T + 1):
