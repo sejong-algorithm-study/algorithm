@@ -15,15 +15,15 @@ for i in range(n):
         elif city[i][j] == 2:
             chicken.append((i, j))
 
-arr = list(combinations(chicken, m))
-dist = [0] * len(arr)
+comb = list(combinations(chicken, m))
+dist = [0] * len(comb)
 
-for i in home:
-    for j in range(len(arr)):
-        a = 100
-        for k in arr[j]:
-            temp = abs(i[1] - k[1]) + abs(i[0] - k[0])
-            a = min(a, temp)
-        dist[j] += a
+for x1, y1 in home:
+    for chicken_shop in comb:
+        m = 100
+        for x2, y2 in chicken_shop:
+            d = abs(x1 - x2) + abs(y1 - y2)
+            m = min(m, d)
+        dist[j] += m
 
 print(min(dist))
