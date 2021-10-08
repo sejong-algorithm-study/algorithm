@@ -30,10 +30,11 @@ while True:
     elif new_head in snake:
         break
 
+    # 사과 먹거나 꼬리 비우기
     if apple and new_head in apple:
-        apple.pop(apple.index(new_head))  # 사과 먹기
+        apple.pop(apple.index(new_head))
     else:
-        snake.popleft()  # 꼬리 비워주기
+        snake.popleft()
     snake.append(new_head)
 
     # 방향 전환
