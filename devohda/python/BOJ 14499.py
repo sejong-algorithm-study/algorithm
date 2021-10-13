@@ -65,4 +65,4 @@ for i in range(n):
         elif board[i][j] == 'B':
             x2, y2 = i, j
 
-print(bfs(x1, x2, x2, y2))
+print(bfs(x1, y1, x2, y2))
