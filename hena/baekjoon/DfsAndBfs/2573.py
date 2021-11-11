@@ -9,7 +9,7 @@ N, M = map(int, input().split())
 graph = []
 for _ in range(N):
     graph.append(list(map(int, input().split())))
-# print(graph)
+# print(board)
 
 
 # 방향
@@ -83,7 +83,7 @@ while True:
     # print("start")
     # for i in range(N):
     #     for j in range(M):
-    #         print(graph[i][j],end="")
+    #         print(board[i][j],end="")
     #     print()
     # print("end")
     
@@ -95,7 +95,7 @@ while True:
 print(0)
     # for i in range(N):
     #     for j in range(M):
-    #         if graph[i][j] > 0:
+    #         if board[i][j] > 0:
                 
     
         
