@@ -1,4 +1,5 @@
 from operator import itemgetter
+from collections import Counter
 
 r, c, k = map(int, input().split())
 # 인덱스는 1부터 시작하므로 맞춰주기 위해 1 빼주기
